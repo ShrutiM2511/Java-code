@@ -17,7 +17,7 @@ public class Main
 	    if(ans==true){
 	        System.out.println("prime");
 	    }else{
-	        System.out.println(" not prime");;;
+	        System.out.println("not prime");;;
 	    }
 	}
 }
